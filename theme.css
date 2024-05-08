@@ -36,7 +36,6 @@
   /**特效动画效果**/
   --bs-wbk: inset 0 0 0 0.6px var(--b3-border-color);
 }
-
 :root {
   /* 主色 */
   --b3-theme-primary: hsla(
